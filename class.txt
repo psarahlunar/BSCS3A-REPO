@@ -2,8 +2,6 @@
 
 ----- BEGIN -----
 [*] King Lawrence
-[*] Josh
-[*] Princess
 
 
 ----- END -----
